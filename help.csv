@@ -1,0 +1,6 @@
+Type,ID,StudentID,StudentName,Category,Description,Timestamp
+PENDING,1001,S10243,Alice Smith,IT & Campus WiFi,Cannot connect to eduroam WiFi in Library 3rd floor,2026-10-02 10:15:30
+PENDING,1002,S10289,Bob Johnson,Academic Support,Missing lab assignment grade for CS101,2026-10-02 10:45:12
+PENDING,1003,S10350,Charlie Brown,Course Registration,Need prerequisite waiver signature for Advanced Algorithms,2026-10-02 11:20:05
+PENDING,1004,NB25ISE242,SURABHI,IT & Campus WiFi,VERY BAD WIFI,2026-10-02 15:27:48
+RESOLVED,1000,S10112,Dana Scully,Hostel & Housing,Room 204 AC remote control battery replacement,2026-10-02 09:30:00
